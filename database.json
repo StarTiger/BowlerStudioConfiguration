@@ -8,9 +8,19 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git:LinkedCadEngine.groovy": [
+      "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git",
+      "LinkedCadEngine.groovy"
+    ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
       "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
       "SimulatePhysics.groovy"
     ]
+  },
+  "BowlerStudioConfigs": {
+    "firstVersion": "0.20.0",
+    "skinBranch": "master",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "currentVersion": "0.20.0"
   }
 }
